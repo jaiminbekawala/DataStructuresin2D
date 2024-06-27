@@ -2,10 +2,10 @@
 This project is about using all data structure and displaying them inside of 2D objects such as a Circle, Triangle or Rectangle etc.\n
 Data structures used in this project are:
     -Lists
-    -Queue
-    -Stack
+    *Queue
+    +Stack
     -Graph
-    -Tree
+    *Tree
 By completeing this projects it shows knowledge about data structure and how to write an alogrithm to find the smallest number inside those data structures being used.
 
 ## Drawing any shape in Python
